@@ -1,0 +1,14 @@
+{
+  "name": "try-github-actions",
+  "version": "1.0.0",
+  "repository": "https://github.com/matsub/try-github-actions.git",
+  "author": "matsub <matsub.rk@gmail.com>",
+  "scripts": {
+    "test": "jest src/",
+    "lint": "eslint src/"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "eslint": "^5.10.0"
+  }
+}
